@@ -221,33 +221,7 @@ function Home() {
                                 Nhấn vào đây!
                             </div>
                         </div>
-                        <div className='home__modal--content__sanXuat'>
-                            Sản phẩm được tạo bởi:
-                        </div>
-                        <div className='home__modal--content__name'>
-                            Lê Hoàng Anh
-                        </div>
-                        <div className='home__modal--content__name'>
-                            Đỗ Trung Hiếu
-                        </div>
-                        <div className='home__modal--content__name'>
-                            Hoàng Thị Hồng Lê
-                        </div>
-                        <div className='home__modal--content__name'>
-                            Đỗ Tuấn Minh
-                        </div>
-                        <div className='home__modal--content__name'>
-                            Trịnh Xuân Phong
-                        </div>
-                        <div className='home__modal--content__name'>
-                            Đỗ Đăng Tuân
-                        </div>
-                        <div className='home__modal--content__sanXuat'>
-                            Chúng em cảm ơn sự hướng dẫn của cô:
-                        </div>
-                        <div className='home__modal--content__name'>
-                            Giảng viên: Vũ Thị Tú Anh
-                        </div>
+                
                         <div className='home__modal--content__disc'>
                             <div className='home__modal--content__disc__innerDisc'>
                                 Trang web sử dụng với mục đích phi thương mại, nếu có vấn đề về bản quyền vui lòng liên hệ: 0911080790
